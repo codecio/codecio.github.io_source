@@ -7,6 +7,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: codecio.github.io
 
     steps:
       - uses: actions/checkout@v2
@@ -28,4 +31,4 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: codecio/codecio.github.io
           publish_branch: main
-          publish_dir: ./codecio.github.io/public
+          publish_dir: ./public
