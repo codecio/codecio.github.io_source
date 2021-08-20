@@ -51,3 +51,13 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/codecio"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/matthew-colecio-3a2b725b"
+  [[params.social]]
+    name = "email"
+    url = "matt@colecio.com"
