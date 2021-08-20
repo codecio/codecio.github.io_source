@@ -60,4 +60,4 @@ paginate     = 10
     url = "https://www.linkedin.com/in/matthew-colecio-3a2b725b"
   [[params.social]]
     name = "email"
-    url = "matt@colecio.com"
+    url = "mailto:matt@colecio.com"
