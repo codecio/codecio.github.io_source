@@ -33,8 +33,9 @@ I've always been a fan of a getting certs to kick start my knowledge in a specif
 - Red Hat Certified Engineer (RHCE)
 - AWS Certified Cloud Practitioner
 
-||
-:----:|:-----:|
-![NetApp Certified Data Administrator, ONTAP](/img/cert/ncda.png) | ![CKA: Certified Kubernetes Administrator](/img/cert/cka.png)
-![PCNSA - Palo Alto Networks Certified Network Security Administrator](/img/cert/pcnsa.png) | ![AWS Certified Cloud Practitioner](/img/cert/awscp.png)
-![Red Hat Certified Engineer (RHCE)](/img/cert/rhce.png) | ![Red Hat Certified System Administrator (RHCSA)](/img/cert/rhcsa.png) | ![Cisco Certified Network Associate Routing and Switching (CCNA)](/img/cert/ccna.png)
+|  |  |
+|:----:|:-----:|
+| ![NetApp Certified Data Administrator, ONTAP](/img/cert/ncda.png) | ![CKA: Certified Kubernetes Administrator](/img/cert/cka.png) |
+| ![PCNSA - Palo Alto Networks Certified Network Security Administrator](/img/cert/pcnsa.png) | ![AWS Certified Cloud Practitioner](/img/cert/awscp.png) |
+| ![Red Hat Certified Engineer (RHCE)](/img/cert/rhce.png) | ![Red Hat Certified System Administrator (RHCSA)](/img/cert/rhcsa.png) |
+| ![Cisco Certified Network Associate Routing and Switching (CCNA)](/img/cert/ccna.png) | coming soon |
