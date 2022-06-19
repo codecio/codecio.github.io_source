@@ -24,6 +24,7 @@ The rest of my labbing is on an AWS :cloud:
 ## Certifications
 I've always been a fan of a getting certs to kick start my knowledge in a specific domain. Doing so has immensely helped learn the language/tool/technology quickly. In addition to balancing my study time between books on the subject and home lab projects. Below is the list of certs I've obtained during those studies:
 
+- CKA: Certified Kubernetes Administrator
 - NetApp Certified Data Administrator, ONTAP
 - Cisco Certified Network Associate Routing and Switching (CCNA)
 - PCNSA - Palo Alto Networks Certified Network Security Administrator
@@ -34,6 +35,6 @@ I've always been a fan of a getting certs to kick start my knowledge in a specif
 
 ||
 :----:|:-----:|
-![NetApp Certified Data Administrator, ONTAP](/img/cert/ncda.png) | ![Cisco Certified Network Associate Routing and Switching (CCNA)](/img/cert/ccna.png)
+![NetApp Certified Data Administrator, ONTAP](/img/cert/ncda.png) | ![CKA: Certified Kubernetes Administrator](/img/cert/cka.png)
 ![PCNSA - Palo Alto Networks Certified Network Security Administrator](/img/cert/pcnsa.png) | ![AWS Certified Cloud Practitioner](/img/cert/awscp.png)
-![Red Hat Certified Engineer (RHCE)](/img/cert/rhce.png) | ![Red Hat Certified System Administrator (RHCSA)](/img/cert/rhcsa.png)
+![Red Hat Certified Engineer (RHCE)](/img/cert/rhce.png) | ![Red Hat Certified System Administrator (RHCSA)](/img/cert/rhcsa.png) | ![Cisco Certified Network Associate Routing and Switching (CCNA)](/img/cert/ccna.png)
