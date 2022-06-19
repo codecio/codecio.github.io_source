@@ -19,3 +19,4 @@ Draft new content and posts and preview locally. Once happy commit and let the p
 * [Hugo Quick Start](https://gohugo.io/getting-started/quick-start/)
 * [Hugo Themes - hello-friend-ng by Djordje Atlialp](https://github.com/rhazdon/hugo-theme-hello-friend-ng/)
 * [Create a website with hugo and gh](https://www.mytechramblings.com/posts/create-a-website-with-hugo-and-gh/)
+* [GitHub Actions for Hugo](https://github.com/marketplace/actions/hugo-setup)
