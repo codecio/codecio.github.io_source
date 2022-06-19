@@ -7,7 +7,7 @@ Install project tooling:
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     brew install hugo
-    git clone https://github.com/codecio/codecio.github.io_source.git
+    git clone --recurse-submodules https://github.com/codecio/codecio.github.io_source.git
     cd codecio.github.io_source.git
 
 Draft new content and posts and preview locally. Once happy commit and let the pipeline handle the deployment.
