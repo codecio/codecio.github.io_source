@@ -35,7 +35,7 @@ I've always been a fan of a getting certs to kick start my knowledge in a specif
 
 |  |  |
 |:----:|:-----:|
-| ![NetApp Certified Data Administrator, ONTAP](/img/cert/ncda.png) | ![CKA: Certified Kubernetes Administrator](/img/cert/cka.png) |
-| ![PCNSA - Palo Alto Networks Certified Network Security Administrator](/img/cert/pcnsa.png) | ![AWS Certified Cloud Practitioner](/img/cert/awscp.png) |
+| ![HashiCorp Certified: Terraform Associate](/img/cert/hcta.png) | ![CKA: Certified Kubernetes Administrator](/img/cert/cka.png) |
+| ![NetApp Certified Data Administrator, ONTAP](/img/cert/ncda.png) | ![AWS Certified Cloud Practitioner](/img/cert/awscp.png) |
 | ![Red Hat Certified Engineer (RHCE)](/img/cert/rhce.png) | ![Red Hat Certified System Administrator (RHCSA)](/img/cert/rhcsa.png) |
-| ![Cisco Certified Network Associate Routing and Switching (CCNA)](/img/cert/ccna.png) | coming soon |
+| ![Cisco Certified Network Associate Routing and Switching (CCNA)](/img/cert/ccna.png) | ![PCNSA - Palo Alto Networks Certified Network Security Administrator](/img/cert/pcnsa.png)  |
