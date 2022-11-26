@@ -25,6 +25,7 @@ The rest of my labbing is on an AWS :cloud:
 I've always been a fan of a getting certs to kick start my knowledge in a specific domain. Doing so has immensely helped learn the language/tool/technology quickly. In addition to balancing my study time between books on the subject and home lab projects. Below is the list of certs I've obtained during those studies:
 
 - CKA: Certified Kubernetes Administrator
+- HashiCorp Certified: Terraform Associate
 - NetApp Certified Data Administrator, ONTAP
 - Cisco Certified Network Associate Routing and Switching (CCNA)
 - PCNSA - Palo Alto Networks Certified Network Security Administrator
